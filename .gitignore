@@ -1,0 +1,10 @@
+node_modules
+core.*
+.DS_Store
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.terraformrc
+aws
+awscliv2.zip
+.vscode
